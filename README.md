@@ -1,5 +1,5 @@
 HOPLITE_2
-This is a simple MP3 player featuring a live queue. once a sohg is added to the queue, it will automatically start playing and will continue to play as other songs are added over time. 
+This is a simple MP3 player featuring a live queue. once a song is added to the queue, it will automatically start playing and will continue to play as other songs are added. 
 I stripped this player down to the bare essentials. The 'Song Hoard List' displays the file names of the mp3 files. It is suggested to use the mp3_file_renamer utility to ensure consistent naming of files.
 Once your music library is loaded, simply highlight one song at a time and push the 'Add To Queue' button to add it to the play-list. 
 
